@@ -19,4 +19,10 @@ I started to get involved in programming at the age of 17. The first programming
 {
    return (a+b > c && b+c >a && a+c > b);
 }
-```
+``` 
+### Education
+Tashkent University of Information Technology Samarkand branch
+### Languages
+* Uzbek - native
+* Russian - fluently
+* English - B2 (Upper-intermediate)
